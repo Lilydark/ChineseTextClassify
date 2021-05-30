@@ -1,4 +1,4 @@
-# 中文文本分类项目
+# 中文文本分类
 现有TextCNN，FastText，LSTM_Attention，DPCNN，基于Pytorch实现，缓慢更新中。
 
 ## 使用说明
