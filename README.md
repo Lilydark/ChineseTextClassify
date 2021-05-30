@@ -15,6 +15,7 @@ python main.py -- DPCNN  # 可用模型：现有TextCNN，FastText，LSTM_Attent
 ## 数据说明
 
 ChnSentiCorp店酒评价数据集，由谭松波从携程网上收集整理得到，根据用户评价内容将其分为正向与负向。
+
 阅读源数据后可知，正向评价的标准是较为宽松的，只有措辞十分严厉的才会被列为负向。
 
 ## 模型效果
