@@ -3,7 +3,7 @@
 
 ## 使用说明
 在data文件夹下放入你需要分类的数据，命名格式为name_train.csv，name_valid.csv，name_test.csv，数据应有名为label, text的两列并用逗号隔开。
-在parameter文件夹下的json文件中存储模型参数，可以自行调整。
+在parameter文件夹下的json文件中存储模型参数，可以自行调整，注意batch_size、max_length、num_classes等通用超参数也在其中。
 
 训练模型：
 ```
