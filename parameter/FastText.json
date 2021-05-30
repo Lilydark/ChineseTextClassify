@@ -1,0 +1,1 @@
+{"embed_dim":128, "class_num":2, "hidden_size":10, "batch_size": 64, "max_len": 200, "lr": 0.002, "device":"cuda", "epochs": 50}

@@ -1,0 +1,4 @@
+FastText（分词CBOW+字符级bigram、trigram）：87.27%
+DPCNN：83.65%
+TextCNN：84.65%
+BiLSTM+Attention：84.32%
